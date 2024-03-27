@@ -159,3 +159,4 @@ const validaForm = () => {
     (msgErro.innerText = "Formulário enviado com sucesso!"),
     (msgErro.classList.add = "verde"));
 };
+
